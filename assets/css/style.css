@@ -1,0 +1,8 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 3px solid rgb(138, 74, 0);
+}
+body{
+    background-color: bisque;
+}
